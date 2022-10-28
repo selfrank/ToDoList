@@ -7,9 +7,10 @@
 About: This exersise was a lesson in learning React refactoring form components and parent/child relationships. 
 
 To setup: 
-1.Index.html runs lays out the divs that need to appear on the page
-2.Index.js has the render compontents for React.
-3. Forms.js handles the state and adds items to the list.
+
+1. Index.html runs lays out the divs that need to appear on the page</br>
+2. Index.js has the render compontents for React.</br>
+3. Forms.js handles the state and adds items to the list. </br>
 4. todo.js handles the removal of items onClick
 
 MIT License
