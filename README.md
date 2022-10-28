@@ -2,7 +2,7 @@
 
 ## <a href= "https://selfrank.github.io/ToDoList/"> ToDoList Demo </a>
 
-<img src= "images/pexels-felix-mittermeier-956981.jpg" width='300'/>
+<img src= "images/Screen_Grab.jpg" width='300'/>
 
 About: This exersise was a lesson in learning React refactoring form components and parent/child relationships. 
 
